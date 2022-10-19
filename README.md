@@ -1,2 +1,2 @@
-# git_practice_assignment
+# Git_Practice_Assignment
 For collaboration practice
